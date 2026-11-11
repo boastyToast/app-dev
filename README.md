@@ -52,3 +52,16 @@ Haikyuu!! follows a volleyball team as they work hard, improve their skills, and
 
 - [About Me](about-me.md)
 - [My Favorite Movies](favorites/movies.md)
+
+- ## Repository Contents
+
+This repository contains the following files:
+
+- **about-me.md** – Contains my personal introduction.
+- **favorites/movies.md** – Contains my favorite movies or series.
+
+### Useful Links
+
+[About Me](about-me.md)
+
+[My Favorite Movies](favorites/movies.md)
