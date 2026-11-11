@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-**Name:** Jasmine Ella Ruth A. Lana
+**Name:** Jasmine Lana
 
 **Course and Section:** BSIT 301C
 
